@@ -183,6 +183,7 @@ header {
 
 #top-nav a:hover {
 	text-decoration: underline;
+	font-size: 105%;
 }
 
 main {
@@ -236,6 +237,7 @@ footer {
 
 #phone a:hover, #fax a:hover {
 	text-decoration: underline;
+	font-size: 105%;
 }
 
 
