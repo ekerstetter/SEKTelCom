@@ -156,7 +156,7 @@ header {
 	height: auto;
 	padding: 10px;
 	min-width: 10%;
-	flex-shrink: .3;
+	flex-shrink: .5;
 	min-width: 300px;
 }
 
@@ -200,6 +200,11 @@ h2 {
 	font-size: 1.5rem;
 	text-align: center;
 	font-weight: 500;
+}
+
+h3 {
+	font-size: 1.25rem;
+	font-weight: 700;
 }
 
 footer {
@@ -285,4 +290,12 @@ footer {
 
 #copyright p {
 	font-size: .75rem;
+}
+
+.indent {
+	padding-left: 25px;
+}
+
+.no-flex {
+	display:inline;
 }
